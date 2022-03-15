@@ -16,9 +16,6 @@ class App extends Component
               
                  <Header/>
               
-               
-
-
               <Switch>
                 <Route path='/index' component={Index} exact/>  
                 <Route path='/' component={Login} exact/>

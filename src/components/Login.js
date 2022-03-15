@@ -158,7 +158,7 @@ class Login extends Component
         console.log('Login:');
 
       return(
-			<div className="" id="loginModal" tabIndex="" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div className="login" id="loginModal" tabIndex="" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 
 			  	<div className="modal-dialog" role="document">
 			    	<div className="modal-content">
